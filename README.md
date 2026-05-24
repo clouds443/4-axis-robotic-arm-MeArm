@@ -26,3 +26,6 @@ https://www.bilibili.com/video/BV1k4411J7XD?spm_id_from=333.788.videopod.episode
 具体的接线图：
 
 <img width="840" height="576" alt="c7cd04c1264b44e30928b94d09a84a53" src="https://github.com/user-attachments/assets/3a21a5b2-3550-4f6d-a0f6-3ad5fa0a96aa" />
+
+给面包板和开发板接上电源，开发板还要链接数据线用来烧录程序：
+<img width="1280" height="960" alt="9009ffff4664387fd0eda56123b9bf9d_720" src="https://github.com/user-attachments/assets/3fb0e53c-2c71-43d4-b632-57d466c1ece2" />
