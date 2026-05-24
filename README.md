@@ -31,6 +31,7 @@ https://www.bilibili.com/video/BV1k4411J7XD?spm_id_from=333.788.videopod.episode
 <img width="1280" height="960" alt="9009ffff4664387fd0eda56123b9bf9d_720" src="https://github.com/user-attachments/assets/3fb0e53c-2c71-43d4-b632-57d466c1ece2" />
 
 舵机初始化：
+
 <img width="679" height="293" alt="image" src="https://github.com/user-attachments/assets/f92e3d08-3647-48c5-8c09-ac4554124dea" />
 
 在Arduino IDE上烧录程序后，在Serial Monitor中可以看到每个舵机初始设置的角度
