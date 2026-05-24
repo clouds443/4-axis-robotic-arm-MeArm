@@ -6,6 +6,7 @@
 感觉蛮有意思的，正好最近在学Arduino，就自己在淘宝上买了MeArm的开源机械臂，想复刻一个玩玩
 
 对Arduino的学习主要是看b站上的教学视频
+
 https://www.bilibili.com/video/BV164411J7GE?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2589621-z4htq.1779593635388.1018&vd_source=44c951660591e5e7df45c28003acbf96
 
 https://www.bilibili.com/video/BV1k4411J7XD?spm_id_from=333.788.videopod.episodes&vd_source=44c951660591e5e7df45c28003acbf96&p=9
