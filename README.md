@@ -10,3 +10,12 @@
 https://www.bilibili.com/video/BV164411J7GE?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2589621-z4htq.1779593635388.1018&vd_source=44c951660591e5e7df45c28003acbf96
 
 https://www.bilibili.com/video/BV1k4411J7XD?spm_id_from=333.788.videopod.episodes&vd_source=44c951660591e5e7df45c28003acbf96&p=9
+
+
+下面是组装好了之后的机械臂
+<img width="1280" height="960" alt="b6dc65109ee590fe73685b0af35e3ff4_720" src="https://github.com/user-attachments/assets/09a2d10f-00bf-441c-b3db-af3137ca0822" />
+网上买的MeArm机械臂是亚克力材质的，很脆，中间固定舵机的时候，有块板断了三次，最后拿502和牙签给固定住了，哈哈
+
+<img width="1280" height="960" alt="1d029d4bed1f8193794529d58967d352_720" src="https://github.com/user-attachments/assets/e68d5902-2b43-46f6-a4b0-7c5680f89f89" />
+
+<img width="1280" height="960" alt="fac3e04fa42eb552d83e23d99fb49886_720" src="https://github.com/user-attachments/assets/b31a1d7f-2a8c-467c-b477-2b6f68bb42b8" />
