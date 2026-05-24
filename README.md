@@ -37,3 +37,11 @@ https://www.bilibili.com/video/BV1k4411J7XD?spm_id_from=333.788.videopod.episode
 在Arduino IDE上烧录程序后，在Serial Monitor中可以看到每个舵机初始设置的角度
 
 
+在Serial Monitor中还可以指定舵机旋转到特定的角度
+
+<img width="1678" height="325" alt="b044a64401810db6e4b0ab7efd48f404" src="https://github.com/user-attachments/assets/e7daccb4-7548-4504-9122-efee87120172" />
+
+<img width="1686" height="331" alt="3b4e8e0e0b79270a9b6d805d21e8c88a" src="https://github.com/user-attachments/assets/8cde1ed8-c8ee-4389-b9e2-f3b7892e79cc" />
+
+
+
