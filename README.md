@@ -19,3 +19,9 @@ https://www.bilibili.com/video/BV1k4411J7XD?spm_id_from=333.788.videopod.episode
 <img width="1280" height="960" alt="1d029d4bed1f8193794529d58967d352_720" src="https://github.com/user-attachments/assets/e68d5902-2b43-46f6-a4b0-7c5680f89f89" />
 
 <img width="1280" height="960" alt="fac3e04fa42eb552d83e23d99fb49886_720" src="https://github.com/user-attachments/assets/b31a1d7f-2a8c-467c-b477-2b6f68bb42b8" />
+
+下面是接好线之后的机械臂
+<img width="1280" height="960" alt="46c8f0fafe07867bc7e861a0ce25bafd_720" src="https://github.com/user-attachments/assets/39167bd4-7b12-491b-aeca-04ce9eba756f" />
+
+具体的接线图：
+<img width="840" height="576" alt="c7cd04c1264b44e30928b94d09a84a53" src="https://github.com/user-attachments/assets/3a21a5b2-3550-4f6d-a0f6-3ad5fa0a96aa" />
